@@ -965,46 +965,46 @@ function aleatorio() {
 }
 
 var rlink = [
-    "https://chat.indonesiya.com/DuZJRauGznRIQGNPjxOyGH.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/Fibp7aR6yXS6pAuptKeU3K.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/BXw2fGXD7id5PDDHDlUQrU.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/DG9RSKyeb1q0gIbOKVjnck.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/DJRLkGNwxe51mHdvSTlyW1.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/ETgsOdGa7FN9JFDuwoscKk.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/E2AixbS4zH7DR7n8nmKni4.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/Et5wxr9nt8GBdrfkSoKIKJ.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/EXLM8rfSdXE5njQ14j3w.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/F3hAQdzL0nE8CWXOFCE8uu.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/FJB61h6QUZPHx4ZuGM.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/H86wzsvZLVL0ep9qL0j8ZJ.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/HhX9rBKZyR56B7UyppUjEm.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/ILEb7ofoSeG8UkTwviWeFR.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/INnTT8F5FJ23vtdQJM01tL.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/IPqE1uTbK97G6U6yKqTF2T.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/JTEhXb7iHSQ11kwiUEoJ9K.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/KMRAsqr0JlQDWrxSnvarGB.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/KWWDRNeX190IKkFdSbUGXq.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/LwyN6jxskQY6IvhHLvb6kB.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/LYwc281eCeH73uXHfV7Vem.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/UCnyWV-eZf8-L-y43qnq9SYg.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/Br8x3cajePOJM4zr18oiy.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/Br8x3cajePOJM4zr18oiyn.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/BRyxQxblf2JH33ih6J64Ko.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/EUR5fgm6CrDANugl6r7kQ8.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/GpycqeEFpeE60FERwZZQ1H.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/I8usBqyrxwk4jHC5l4Z1Tp.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/ID7awxajbGW2RVLRQkVBhj.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
-    "https://chat.indonesiya.com/IH72AUowxa8EpOGQmuZyVZ.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com",
-    "https://chat.indonesiya.com/LLrYHSirFRuKucY203Q6Um.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/DuZJRauGznRIQGNPjxOyGH.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/Fibp7aR6yXS6pAuptKeU3K.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/BXw2fGXD7id5PDDHDlUQrU.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/DG9RSKyeb1q0gIbOKVjnck.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/DJRLkGNwxe51mHdvSTlyW1.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/ETgsOdGa7FN9JFDuwoscKk.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/E2AixbS4zH7DR7n8nmKni4.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/Et5wxr9nt8GBdrfkSoKIKJ.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/EXLM8rfSdXE5njQ14j3w.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/F3hAQdzL0nE8CWXOFCE8uu.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/FJB61h6QUZPHx4ZuGM.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/H86wzsvZLVL0ep9qL0j8ZJ.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/HhX9rBKZyR56B7UyppUjEm.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/ILEb7ofoSeG8UkTwviWeFR.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/INnTT8F5FJ23vtdQJM01tL.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/IPqE1uTbK97G6U6yKqTF2T.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/JTEhXb7iHSQ11kwiUEoJ9K.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/KMRAsqr0JlQDWrxSnvarGB.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/KWWDRNeX190IKkFdSbUGXq.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/LwyN6jxskQY6IvhHLvb6kB.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/LYwc281eCeH73uXHfV7Vem.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/UCnyWV-eZf8-L-y43qnq9SYg.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/Br8x3cajePOJM4zr18oiy.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/Br8x3cajePOJM4zr18oiyn.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/BRyxQxblf2JH33ih6J64Ko.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/EUR5fgm6CrDANugl6r7kQ8.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/GpycqeEFpeE60FERwZZQ1H.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/I8usBqyrxwk4jHC5l4Z1Tp.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/ID7awxajbGW2RVLRQkVBhj.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
+    "https://chat.indonesiya.com/IH72AUowxa8EpOGQmuZyVZ.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com",
+    "https://chat.indonesiya.com/LLrYHSirFRuKucY203Q6Um.html %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com %0A%0A*Join Group*",
 
 ];
 var msgamigo = "whatsapp://send?text=Group Chat Invite Whatsapp %0A👉 *" + citas[alea] + "*%0A" + rlink[Math
     .floor(Math.random() * rlink.length)] + " 👈";
 var shareCountG = 5;
 var urlpubliMovil =
-    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat.indonesiya.com/LLrYHSirFRuKucY203Q6Um.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com 👈 %0A%0A*Join Group*";
+    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat.indonesiya.com/LLrYHSirFRuKucY203Q6Um.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com 👈 %0A%0A*Join Group*";
 var urlpubliPC =
-    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat.indonesiya.com/ID7awxajbGW2RVLRQkVBhj.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com 👈 %0A%0A*Join Group*";
+    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat.indonesiya.com/ID7awxajbGW2RVLRQkVBhj.html %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.indonesiya.com 👈 %0A%0A*Join Group*";
 var msg = "You must complete the invitation process and you can chat with us.";
 
 function setCookie(a, b, c) {
