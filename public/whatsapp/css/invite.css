@@ -17102,3 +17102,11 @@ html[lang="ar"] ._2yz0 .rich-text ol,
     right: 10px;
     bottom: 40%
 }
+
+.mgheader,
+#AdskeeperComposite1176010_10594 .mghead,
+.mghead,
+div.mg_addad1176010 {
+    display: none !important;
+    visibility: hidden;
+}
